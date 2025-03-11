@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-- GitHub: [@tomtomW831](https://github.com/tomtomW831) 
+- GitHub: [@tomtomW831](https://github.com/tomtomW831)
